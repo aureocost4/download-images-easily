@@ -1,4 +1,4 @@
-A Simple project to download multiple images from https://www.freepik.com/ using
+A simple project to download multiple images from https://www.freepik.com/ using
 the Google Chrome browser.
 
 
