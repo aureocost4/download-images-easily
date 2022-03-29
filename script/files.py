@@ -45,5 +45,3 @@ def rename_file():
         old_name = DOWNLOAD_PATH + filename
         new_name = DOWNLOAD_PATH + hash + '.jpg'
         os.rename(old_name, new_name)
-
-print(str(directory_exists()))
